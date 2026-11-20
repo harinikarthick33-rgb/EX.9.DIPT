@@ -45,8 +45,8 @@ Display the dilated image.
 Compare the original, eroded, and dilated images.
 
 # Program was Developed By
-Name: Harini V K
-Register No: 212225220036
+# Name: Harini V K
+# Register No: 212225220036
 
 # PROGRAM
 ```
